@@ -1,4 +1,4 @@
-const staticAssetServerUrlForCN = '/res/';
+const staticAssetServerUrlForCN = '/';
 
 export async function getStaticAssetServerUrl() {
   const domain = window.location.href;
